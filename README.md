@@ -8,8 +8,7 @@ On veut faire de la concurrence à Pinterest, donc on a créé un site où les u
 
 * Rails version 5.2.0
 
-Pour lancer l'application;
-	*faire bundle installation
-	*rails db:migrate
-	*rails db:seed
 
+Lancer bundle install
+puis rails db:migrate
+puis rails db:seed
